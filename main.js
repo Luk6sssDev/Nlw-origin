@@ -1,5 +1,6 @@
 // DOM document Object module
 //Abre e fecha o menu ao clicar no icone 
+
 const nav = document.querySelector('#header nav')
 const toggle = document.querySelectorAll('nav .toggle')
 
